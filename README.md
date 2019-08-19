@@ -1,4 +1,6 @@
-# Reading
+*Public Service Announcement: I renamed this project recently, so if you were using it, it is likely broken, and you should regenerate your link. Thanks!*
+
+# Gitmarklet
 
 Simple webform for creating structured and tagged Github issues from arbitrary users to arbitrary repos.
 
@@ -11,7 +13,7 @@ You can do this by following:
 > Top right menu > Settings > Developer Settings > Personal Access Tokens > Generate  new token
 
 
-#### 2. Go to [https://gkiar.github.io/reading](https://gkiar.github.io/reading)
+#### 2. Go to [https://gkiar.github.io/gitmarklet](https://gkiar.github.io/gitmarklet)
 
 <img src="./doc/website_top.png" width="500px" />
 
